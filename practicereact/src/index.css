@@ -1,0 +1,18 @@
+/* src/index.css */
+body {
+  background-color: rgb(23, 141, 104);
+  text-emphasis-color:white;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+
